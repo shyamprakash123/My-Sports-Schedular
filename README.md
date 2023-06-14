@@ -1,5 +1,4 @@
 # My-Sports-Schedular
-# My Sports Scheduler
 
 Welcome to the My Sports Scheduler repository! This project aims to provide a convenient and user-friendly way to schedule and manage sports events and activities. Whether you're organizing a recreational league, managing a professional team, or simply planning your own sports activities, this scheduler has got you covered.
 
