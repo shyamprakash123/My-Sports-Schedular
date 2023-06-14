@@ -80,7 +80,8 @@
      </div>
                 <hr class="rounded mt-4">
                 <!-- sports by admin -->
-                <div style="margin: 50px;">
+                 <% if(user[0].role=="admin"){ %>
+                 <div style="margin: 50px;">
                 <h2 class="text-fuchsia-500 font-semibold font-serif mt-2f">The following sports that you have created!</h2>
                 <div class="w-fit">
                     <% if(sportsByAdmin.length > 0) { %>
@@ -98,6 +99,8 @@
                 <% } %>
                 </div>
             </div>
+            <% } %>
+               
                 <!-- sports -->
             <div style="margin: 50px;">
                 <h2 class="text-fuchsia-500 font-semibold font-serif mt-2f">The following sports are available. Please select one:</h2>
