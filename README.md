@@ -21,4 +21,6 @@ Once you have the application up and running, you can start using My Sports Sche
 7. Edit or delete events and participant details as necessary.
 8. Enjoy the convenience of managing your sports activities with ease!
 
+screen shots of project - https://www.pupilfirst.school/markdown_attachments/6389/yO7JM8uw7ZDiEJSoyYgGlw
+
 see video demo link - https://www.loom.com/share/670f4736b44a4d2ba01cc0f19940d890
