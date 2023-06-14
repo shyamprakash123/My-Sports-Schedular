@@ -126,7 +126,7 @@
                 <% for(var i=0; i < sessionByUser.length; i++) { %>
                 <li>
                     <div class="flex items-center place-content-evenly w-full my-2 px-2 py-1 rounded hover:bg-purple-50 border border-violet-400">
-                        <% if(sessionByUser[i].dateTime < new Date()){ %>
+                        <% if(sessionByUser[i].dateTime < date){ %>
                             <a class="text-base" href="/sports/<%= sessionByUser[i].sportName %>/previous-session/<%= sessionByUser[i].id %>"><%= sessionByUser[i].sportName %>-<%= sessionByUser[i].dateTime.toLocaleDateString('en-US',{
                         year: 'numeric',
                         month: 'long',
