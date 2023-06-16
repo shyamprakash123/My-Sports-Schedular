@@ -7,7 +7,6 @@ Welcome to the My Sports Scheduler repository! This project aims to provide a co
 - **Event Management**: Create, edit, and delete sports events with ease. Specify details such as event name, date, time, location, and participants.
 - **Scheduling**: Plan events by selecting the desired date, time, and location. Avoid conflicts and overlaps with other events.
 - **Participant Management**: Keep track of participants for each event. Add, remove, and update participant information as needed.
-- **Notifications**: Receive notifications and reminders about upcoming events. Never miss an important game or practice session.
 - **User Accounts**: Register and create your own account to manage your sports activities. Log in securely to access your personalized scheduler.
 - **User-Friendly Interface**: Enjoy a clean and intuitive interface designed to make scheduling and managing sports events effortless.
 
