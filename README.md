@@ -21,10 +21,10 @@ Once you have the application up and running, you can start using My Sports Sche
 7. Edit or delete events and participant details as necessary.
 8. Enjoy the convenience of managing your sports activities with ease!
 
-#See Video Demo Link 
+## See Video Demo Link 
 https://www.loom.com/share/670f4736b44a4d2ba01cc0f19940d890
 
-#ScreenShots of Project
+## ScreenShots of Project
 
 - **Initial Page**:
 ![Screenshot 2023-06-14 233306](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/0bf59c20-ef2a-461d-9fdf-8f1b624d26c0)
