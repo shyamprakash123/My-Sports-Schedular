@@ -26,21 +26,33 @@ https://www.loom.com/share/670f4736b44a4d2ba01cc0f19940d890
 
 #ScreenShots of Project
 
--**Initial Page**:
+- **Initial Page**:
 ![Screenshot 2023-06-14 233306](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/0bf59c20-ef2a-461d-9fdf-8f1b624d26c0)
--**Signup Page**:
+- **Signup Page**:
 ![Screenshot 2023-06-14 233332](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/cf51b00b-4c7e-4931-aa81-8be0dfd6e3ac)
+- **Login Page**:
 ![Screenshot 2023-06-14 233354](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/2b903c88-1ad8-4c0b-9e77-cb67c810f2ec)
+- **Home Page**:
 ![Screenshot 2023-06-14 233422](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/064ab4b6-3967-4b1f-af99-4a340874ce2a)
+- **Sessions Page**:
 ![Screenshot 2023-06-14 233437](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/af1f263a-14b7-4686-a916-d69625217b58)
+- **Edit Sport Page**:
 ![Screenshot 2023-06-14 233452](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/dec601ff-aa67-4633-bdba-82768688bd75)
+- **Delete Sport Page**:
 ![Screenshot 2023-06-14 233507](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/39eb9bf7-b846-4133-87df-72eac961edf4)
+- **Create New Session Page**:
 ![Screenshot 2023-06-14 233525](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/945c6488-6878-4863-8527-09a7b1e0a0ec)
+- **Previous Sessions Page**:
 ![Screenshot 2023-06-14 233542](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/6daae31d-29b1-4f9c-afff-595913bf041c)
+- **Reports Page**:
 ![Screenshot 2023-06-14 233611](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/887528a2-0386-498d-a2c7-c127a48d795e)
+- **Sport Insights Page**:
 ![Screenshot 2023-06-14 233628](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/621a17bf-1f4c-4952-8464-6550865cec71)
+- **Canceled Session Page**:
 ![Screenshot 2023-06-14 233718](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/0597ca1a-cba6-47f5-844b-ceff5afb3da9)
+- **Sessions Home Page**:
 ![Screenshot 2023-06-14 233739](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/23424ea4-72fa-4b88-b20f-a10dba3083c5)
+- **My-Sessions Page**:
 ![Screenshot 2023-06-14 233756](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/7934517a-3fd6-4053-8d30-6bae361b912b)
+- **Change Password Page**:
 ![Screenshot 2023-06-14 233817](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/e65de10f-d0fc-449c-af8b-b625e65b3a3b)
-![Screenshot 2023-06-14 233918](https://github.com/shyamprakash123/My-Sports-Schedular/assets/106866225/ab323a58-c372-41e2-8a46-975df4f7e9a4)
